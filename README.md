@@ -1,6 +1,6 @@
-### Beyond Geolocation: Micro-Dialect Identification in Diaglossic and Code-Switched Environments
+# Beyond Geolocation: Micro-Dialect Identification in Diaglossic and Code-Switched Environments
 
-References:
+##References:
 
 - Al-Balushi, R. (2016). Omani Arabic: More than a Dialect. Macrolinguistics Vol.4, No.4. (80-125). 
 - Anis, I. (1999). Al-‘aswat al-lughawiya. [Linguistic sounds]. Cairo: Anglo-Egyptian Library.
