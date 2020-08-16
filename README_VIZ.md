@@ -11,7 +11,7 @@ Documenting work on micro-dialects
   
 ---
 
-![image_24](https://raw.githubusercontent.com/beyond-geolocation/beyond-geolocation/master/attenttion_viz/24.png)
+![image_24](https://raw.githubusercontent.com/beyond-geolocation/beyond-geolocation/master/attention_viz/24.png)
 
 
 | Gold label: Asuit (Egypt) | Predicted label: Asuit (Egypt)|
