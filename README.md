@@ -1,5 +1,8 @@
 # Beyond Geolocation: Micro-Dialect Identification in Diaglossic and Code-Switched Environments
 
+## Qulitative analysis and attention visualization:
+https://github.com/beyond-geolocation/beyond-geolocation/blob/master/README_VIZ.md
+
 ## References:
 
 - `Al-Balushi, R. (2016). Omani Arabic: More than a Dialect. Macrolinguistics Vol.4, No.4. (80-125). `
