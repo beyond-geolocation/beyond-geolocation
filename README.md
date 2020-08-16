@@ -1,6 +1,6 @@
 # Beyond Geolocation: Micro-Dialect Identification in Diaglossic and Code-Switched Environments
 
-## Qulitative analysis and attention visualization:
+## Qualitative analysis and attention visualization:
 https://github.com/beyond-geolocation/beyond-geolocation/blob/master/README_VIZ.md
 
 ## References:
