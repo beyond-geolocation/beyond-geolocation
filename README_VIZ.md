@@ -47,7 +47,7 @@ Documenting work on micro-dialects
 **Eng:** ```Dinner tonight was at Shaikh Ali Hamdi Al-Haddad. Why on earth did you leave[?]```
 
 
-![image_matrouh_to_tobruq](https://raw.githubusercontent.com/beyond-geolocation/beyond-geolocation/master/attenttion_viz/matrouh_to_tobruq.png)
+![image_matrouh_to_tobruq](https://raw.githubusercontent.com/beyond-geolocation/beyond-geolocation/master/attention_viz/matrouh_to_tobruq.png)
 
 
 
