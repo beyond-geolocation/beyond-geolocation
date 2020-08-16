@@ -63,7 +63,6 @@ Documenting work on micro-dialects
 **Attention Description:** ```Attention layer #4 of the model (counting from zero) has several heads attennding to lexical micro-dialectal cues related to the city of Marsa_Matrouh (Egypt). Most notably, the two tokens "ايش" and "مشاك" recieve a great share of the attention in heads 4 and 5, with the first word recieving more weight. Other token in the sentence, such as "الخيانة" also recieve pronounced attention, although this token is shared across dialects and also by MSA. As such, even though the attention weights seem useful, they are not perfect.```
 
 ---
----
 
 ## References:
 
