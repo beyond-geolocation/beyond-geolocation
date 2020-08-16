@@ -1,4 +1,4 @@
-# microdialects
+# Microdialects
 Documenting work on micro-dialects
 
 ## Attention Viz:
